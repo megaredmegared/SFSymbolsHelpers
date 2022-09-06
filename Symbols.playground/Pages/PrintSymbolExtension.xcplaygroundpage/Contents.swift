@@ -18,7 +18,7 @@ func printStringSymbolExtension(name: String, prefixName: String) {
 
 // You can change the name of the struct and the prefix for the symbols. The prefix is needed because some symbol starts with a number
 
-printStringSymbolExtension(name: "Symbol", prefixName: "named")
+printStringSymbolExtension(name: "Symbol", prefixName: "of")
 
 
 
@@ -37,4 +37,4 @@ func printImageSymbolExtension(prefixName: String) {
 // Create the code for an extension on Image for swiftUI.
 
 // You can change the prefix for the symbols. The prefix is needed because some symbol starts with a number
-printImageSymbolExtension(prefixName: "named")
+printImageSymbolExtension(prefixName: "of")
