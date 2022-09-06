@@ -1,4 +1,4 @@
-# Symbolicator
+# Symbolicator SF Symbols Helpers
 
 ### Currently compatible for SF Symbol 3
 
