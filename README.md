@@ -1,8 +1,12 @@
 # SF Symbols Helpers
 
-### Currently compatible for SF Symbol 3
+### Currently compatible for SF Symbol 4.0
 
 This is a simple Playground that is used to generate SF Symbols extension files on String or on Image for swiftUI.
+
+You can use either the String Extention file (StringSymbolExtension.swift) or the Image Extention file (ImageSymbolExtention.swift) or both.
+
+
 
 ### example for swiftUI:
 
