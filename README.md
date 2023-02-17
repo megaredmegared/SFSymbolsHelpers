@@ -1,6 +1,6 @@
 # SF Symbols Helpers
 
-### Currently compatible for SF Symbol 4.0
+### Currently compatible with SF Symbol 4.0
 
 This is a simple Playground that is used to generate SF Symbols extension files on String or on Image for swiftUI.
 
